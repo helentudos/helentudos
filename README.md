@@ -15,11 +15,12 @@ Before automation I worked as a dentist for 12 years and ran a beauty salon with
 
 The AI sorts, extracts and explains. **People make the decisions.**
 
-## Featured project
+## Featured projects
 
 | Project | What it shows |
 |---|---|
 | [Candidate Intake & AI Scoring](https://github.com/helentudos/candidate-intake-ai-scoring) | n8n + PostgreSQL + LLM: CV extraction, upsert without duplicates, rubric-based scoring 0–100, Telegram alerts, error workflow, 16 documented tests |
+| [Field Report Voice Bot](https://github.com/helentudos/field-report-voice-bot) | n8n + Telegram + speech-to-text + LLM: installer's voice message → structured site report → object passport → PM, procurement and installer notified; 17 documented tests, OpenAI vs Deepgram benchmark, Odoo target architecture |
 
 More case studies: [Notion portfolio](https://sulky-table-323.notion.site/Elena-Tudos-AI-Automation-Specialist-EN-402760dd1d588192866be307375ff0cc)
 
