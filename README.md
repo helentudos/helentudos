@@ -2,6 +2,8 @@
 
 **AI Automation Specialist** · Wrocław, Poland · open to remote and hybrid roles
 
+🌐 **Website:** [olena-tudos-site.vercel.app](https://olena-tudos-site.vercel.app) — send it a real inquiry and watch the automation work
+
 I turn manual business processes into reliable automations: n8n workflows, databases, APIs and LLM steps with structured output. I start with the people who use the process, test the edge cases, add error handling and document everything, so the team can understand and maintain it.
 
 Before automation I worked as a dentist for 12 years and ran a beauty salon with a team of 9. That is why I think in terms of real users, clear explanations and measurable results, not just technology.
@@ -19,6 +21,7 @@ The AI sorts, extracts and explains. **People make the decisions.**
 
 | Project | What it shows |
 |---|---|
+| [Personal site with an AI inquiry form](https://github.com/helentudos/olena-tudos-site) · [live](https://olena-tudos-site.vercel.app) | Built with Claude Code: 4 languages, mobile-first, Lighthouse 98–100. The inquiry form is a working automation: Vercel serverless function → Claude API (strict JSON schema) → Telegram, with prompt-injection and spam protection, language and name guards in code, 94 automated tests and 8 documented live test runs |
 | [Candidate Intake & AI Scoring](https://github.com/helentudos/candidate-intake-ai-scoring) | n8n + PostgreSQL + LLM: CV extraction, upsert without duplicates, rubric-based scoring 0–100, Telegram alerts, error workflow, 16 documented tests |
 | [Field Report Voice Bot](https://github.com/helentudos/field-report-voice-bot) | n8n + Telegram + speech-to-text + LLM: installer's voice message → structured site report → object passport → PM, procurement and installer notified; 17 documented tests, OpenAI vs Deepgram benchmark, Odoo target architecture |
 
@@ -28,9 +31,9 @@ More case studies: [Notion portfolio](https://sulky-table-323.notion.site/Elena-
 
 | Area | Tools |
 |---|---|
-| Automation | n8n (cloud and self-hosted), Make, JavaScript in Code nodes, error workflows |
+| Automation | n8n (cloud and self-hosted), Make, JavaScript in Code nodes, error workflows, Vercel serverless functions (Node.js) |
 | Data | PostgreSQL (Neon), SQL: joins, views, upserts, constraints · Google Sheets |
-| AI / LLM | OpenAI API, Anthropic API (Claude), Google Gemini, structured output (JSON Schema), prompt design, speech-to-text (Deepgram, AssemblyAI) |
+| AI / LLM | OpenAI API, Anthropic API (Claude), Claude Code, Google Gemini, structured output (JSON Schema), prompt design, speech-to-text (Deepgram, AssemblyAI) |
 | Integrations | REST APIs, webhooks, OAuth2, Zoho CRM, Telegram Bot API, Slack, Gmail, Google Calendar |
 
 ## How I work
@@ -47,4 +50,4 @@ Ukrainian and Russian (native) · Polish (C1) · English (B1, improving)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/olena-tudos) · [Notion portfolio](https://sulky-table-323.notion.site/Elena-Tudos-AI-Automation-Specialist-EN-402760dd1d588192866be307375ff0cc) · [Telegram](https://t.me/helena_wro) · helena.tudos@gmail.com
+[Website](https://olena-tudos-site.vercel.app) · [LinkedIn](https://www.linkedin.com/in/olena-tudos) · [Notion portfolio](https://sulky-table-323.notion.site/Elena-Tudos-AI-Automation-Specialist-EN-402760dd1d588192866be307375ff0cc) · [Telegram](https://t.me/helena_wro) · helena.tudos@gmail.com
