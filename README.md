@@ -6,8 +6,6 @@
 
 I turn manual business processes into reliable automations: n8n workflows, databases, APIs and LLM steps with structured output. I start with the people who use the process, test the edge cases, add error handling and document everything, so the team can understand and maintain it.
 
-Before automation I worked as a dentist for 12 years and ran a beauty salon with a team of 9. That is why I think in terms of real users, clear explanations and measurable results, not just technology.
-
 ## What I build
 
 - **AI intake and scoring:** unstructured text, email or voice → LLM extraction into strict JSON → database → decision support for a human
